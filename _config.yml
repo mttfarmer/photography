@@ -6,10 +6,10 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Matt Farmer"
+title: "Matt Farmer Photos"
 author: "Matt Farmer"
 header:
- title: "Matt Farmer Photos"
+ title: "Matt Farmer"
 # footer:
 #  name: "Hey there, my name is Ram"
 #  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
