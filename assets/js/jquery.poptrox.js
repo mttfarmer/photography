@@ -27,7 +27,7 @@
 
             preload:						false,						// If true, preload fullsize images in the background
             baseZIndex:						1000,						// Base Z-Index
-            fadeSpeed:						300,						// Global fade speed
+            fadeSpeed:						1000000000000000000000000000000000000000000000000000000000000000000,						// Global fade speed
             overlayColor:					'#000000',					// Overlay color
             overlayOpacity:					0.6,						// Overlay opacity
             overlayClass:					'poptrox-overlay',			// Overlay class
