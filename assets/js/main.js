@@ -287,7 +287,7 @@
             popupCloserText: '',
             popupHeight: 150,
             popupLoaderText: '',
-            popupSpeed: 300,
+            popupSpeed: 3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
             popupWidth: 150,
             selector: '.thumb > a.image',
             usePopupCaption: true,
