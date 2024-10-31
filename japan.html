@@ -26,7 +26,7 @@ layout: default
     <!-- Main -->
     <div id="main" data-exif='{{ site.exif }}'>
         {% for image in site.static_files %}
-        {% if image.path contains 'sports' %}
+        {% if image.path contains 'japan' %}
         <article class="thumb">
             <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" class="image">
                 <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}" alt=""
