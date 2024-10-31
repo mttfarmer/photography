@@ -4,7 +4,7 @@ baseurl: "https://mattfarmerphotos.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/fulls"
 targ: "fulls"
-#google_analytics: "UA-46465113-2"
+google_analytics: "G-J306MP9RRT"
 
 # UI configs
 title: "Matt Farmer"
